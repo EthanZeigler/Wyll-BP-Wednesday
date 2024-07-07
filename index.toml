@@ -245,6 +245,54 @@ file = ".vscode/.local-history/.history/blockparty_wednesday/pack_20240707014652
 hash = "ba5bee6946a28a705e3f4c6b0e127231034487f6a1e28d4cfa4bbdd0e214f3bd"
 
 [[files]]
+file = "datapacks/anti enderman grief v1.1.8 (MC 1.21.0).zip"
+hash = "07e6012185d9713b0259a91c70e06f19da2cd531a6cf44aa023a48a44a77113c"
+
+[[files]]
+file = "datapacks/armor statues v2.8.13 (MC 1.21.0).zip"
+hash = "fde473c4dc1c5587d58b594faa1e971634d5b5e65526fbc896cb00c110eee402"
+
+[[files]]
+file = "datapacks/custom nether portals v2.3.11 (MC 1.21.0).zip"
+hash = "a2ff0796b388c31d7f692149d7c6e3b359d0ed510c12abec773875da97f462b5"
+
+[[files]]
+file = "datapacks/double shulker shells v1.3.8 (MC 1.21.0).zip"
+hash = "fee93d69fa685c997493f0e9f5212c3f5933bc0846b3fed4fb8aa9218df93dd2"
+
+[[files]]
+file = "datapacks/durability ping v1.1.8 (MC 1.21.0).zip"
+hash = "45ee529a2b1d6dc864ae3079bf9ad3e90ea830462a10f2caf2be6aa072942ae9"
+
+[[files]]
+file = "datapacks/husks drop sand v1.0.1 (MC 1.21.0).zip"
+hash = "0c70ca79cf8d5ca5c2aa67b71b33f463d073b38b3455c612aa778d4e5299f142"
+
+[[files]]
+file = "datapacks/mini blocks v1.0.0 (MC 1.21.0).zip"
+hash = "b4182d119c6b9de890b40d4d628b911663eac1b50c2b27e62f7762d03c74cce0"
+
+[[files]]
+file = "datapacks/player head drops v1.1.8 (MC 1.21.0).zip"
+hash = "12962eb96858906e1cb4e28a79165bfd70fcf2cfb5591fa6ccbe9a33f7fb5ec5"
+
+[[files]]
+file = "datapacks/spectator conduit power v1.1.8 (MC 1.21.0).zip"
+hash = "4165faf905aa49cfd2ef35c6dfabce36beb37ee3104e85672aa1d94464344a8f"
+
+[[files]]
+file = "datapacks/spectator night vision v1.1.8 (MC 1.21.0).zip"
+hash = "316132b2772831ed9cfd6bb9f4e0b93fb95539bd900d4912d3ef5fd03ee39249"
+
+[[files]]
+file = "datapacks/unlock all recipes v2.0.9 (MC 1.21.0).zip"
+hash = "d1ec26daef507e36deb9fdcc7a26b4b33d1d3a14202f338204d7b588a3b4c073"
+
+[[files]]
+file = "datapacks/villager death messages v1.2.10 (MC 1.21.0).zip"
+hash = "b5969fd2b7baa61d8fe4aba559e2a05de26234de09b17bcc0efc0bd1f62a0ed6"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
@@ -1055,11 +1103,5 @@ hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/stay-true.pw.toml"
-hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vanillatweaks.pw.toml"
-hash = "6e817fc095cdc17a72a6796cd327e0b732094cc018c05279c9e87de2305d48ef"
-metafile = true
+file = "resourcepacks/VanillaTweaks_r683065_MC1.20.x.zip"
+hash = "f3453f3aadd1750701f14d6240c1c6f4009f94a40d7427066cdeb5fbf448844d"
