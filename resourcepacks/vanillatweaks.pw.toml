@@ -1,0 +1,7 @@
+name = "VanillaTweaks"
+filename = "VanillaTweaks_r817778_MC1.20.x.zip"
+
+[download]
+url = "https://vanillatweaks.net/download/VanillaTweaks_r817778_MC1.20.x.zip"
+hash-format = "sha256"
+hash = "ac8c8aaf69dce69a8575d0b9c0fedffa7f699e266c122f1e8bf66b6a3724104e"

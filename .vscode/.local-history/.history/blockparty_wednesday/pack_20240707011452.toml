@@ -1,0 +1,13 @@
+name = "Blockparty Wednesday"
+author = "Serene_Sparks_+rznant"
+version = "0.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "aac45dc7945218006f20a07684cd6e95587b842efd49f95bbc53699eb026f167"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.1-beta.1"

@@ -1,0 +1,13 @@
+name = "clover"
+filename = "clover-2024.0128.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WG1hTtvW/versions/bGXG9KtP/clover-2024.0128.1.jar"
+hash-format = "sha1"
+hash = "cd15f24b58ba641c24b1595c5a8e33b6d5520109"
+
+[update]
+[update.modrinth]
+mod-id = "WG1hTtvW"
+version = "bGXG9KtP"
