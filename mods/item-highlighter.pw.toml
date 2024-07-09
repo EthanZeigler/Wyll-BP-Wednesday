@@ -2,6 +2,11 @@ name = "Item Highlighter"
 filename = "Highlighter-1.20.1-fabric-1.1.9.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Highlights newly picked up items in your inventory"
+
 [download]
 url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/vyEyvJgV/Highlighter-1.20.1-fabric-1.1.9.jar"
 hash-format = "sha1"

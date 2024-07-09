@@ -2,6 +2,11 @@ name = "Zoomify"
 filename = "Zoomify-2.14.0+1.20.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "A zoom mod with infinite customizability"
+
 [download]
 url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/8VBKUY5S/Zoomify-2.14.0%2B1.20.1.jar"
 hash-format = "sha1"

@@ -2,6 +2,11 @@ name = "Legendary Tooltips"
 filename = "LegendaryTooltips-1.20.1-fabric-1.4.5.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Gives rare items a fancy tooltip and additional tooltip config options"
+
 [download]
 url = "https://cdn.modrinth.com/data/atHH8NyV/versions/fvJtXL6i/LegendaryTooltips-1.20.1-fabric-1.4.5.jar"
 hash-format = "sha1"
