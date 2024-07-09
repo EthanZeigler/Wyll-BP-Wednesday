@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "44eb55d856675920aeaea3de74d80a862487799282e26d8f00599bf949a1bc58"
+
+[[files]]
 file = "config/yosbr/config/CoroUtil/General.toml"
 hash = "91baf2bbdee4d84fff0b2a0201bb34a00c9660468a8bd63c3c5de767b75d40ec"
 
@@ -995,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "1497024acddb06bd69b55c64908ba060d871cd414660777865eacbecada22a47"
+hash = "9759ffa0d98dc5100a23a090551f31c6dbf756487e730605e2273f3b43d5359d"
 metafile = true
 
 [[files]]
@@ -1199,11 +1203,6 @@ hash = "71aac91883d25f03606b419345a2c542a34e6bd4b9c5f37bc1233bae3be53453"
 metafile = true
 
 [[files]]
-file = "mods/do-api.pw.toml"
-hash = "aa1e63de697ec8db39b302c9bd21f78fde021dd0040d9162618c06c552bc0d04"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
@@ -1211,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "a5bce60eb3d4feced5e0e932c53e2dfa5257722b8bd5f1ac3aba99411263b00d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "d66ea8c1b07884fd9de62cfbd344a74760388b9d19b0d82c32557e3edb4daad9"
 metafile = true
 
 [[files]]
@@ -1664,6 +1668,11 @@ hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
+file = "mods/too-many-binds.pw.toml"
+hash = "c69eedd2cf1721b5347ecee4fedd76a5e4fa1150e09da414dd67d25258f0ce90"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "e580928a25e780a7c7b37f7b097d810e3f0e4956e55a2b99ed0b3a4cdaa933e1"
 metafile = true
@@ -1706,11 +1715,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "fb317684448237e6abc00d035d2054d57ab00a85303056391bf721e15b2298e0"
-metafile = true
-
-[[files]]
-file = "mods/where-is-it.pw.toml"
-hash = "75a1c2c05ad810ae2d7c052ae1f6b688bb1cd899dca228e9d2c5e682b3613b54"
 metafile = true
 
 [[files]]
