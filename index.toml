@@ -998,11 +998,6 @@ hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "9759ffa0d98dc5100a23a090551f31c6dbf756487e730605e2273f3b43d5359d"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -1050,6 +1045,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin-fabric.pw.toml"
+hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
 metafile = true
 
 [[files]]
@@ -1368,6 +1368,11 @@ hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "3ca288e948a12a854c4d8e74dbf5e32302f41478b75f364709087709d66402de"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "98e86fe330c6c92a84ecae2e70f6e38b7f442a3859eac8b2238fc485bf5eed41"
 metafile = true
@@ -1550,6 +1555,11 @@ metafile = true
 [[files]]
 file = "mods/nostalgic-tweaks.pw.toml"
 hash = "e26df53efae4ef616f6846dd2af17cea0ebd04e62c5a9fe81203bc13eb54b12c"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "5b00ec4044d3eddf2b141c9f5b703d3a703c3ac5114c0d1354c953edb3f3ed5b"
 metafile = true
 
 [[files]]
