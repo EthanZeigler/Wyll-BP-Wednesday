@@ -1023,6 +1023,11 @@ hash = "8c3d2ab031956ebc554135689326aca1dc41bc3ae5e700b5a7e316a20c2e8f21"
 metafile = true
 
 [[files]]
+file = "mods/autocrafter-early.pw.toml"
+hash = "67502f037a59374fac3d9d40b382eca6e716acacbad0490584bc3841bc779873"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "297457710ba0121b7b7ff4d36bd60ee6f260aabb293c7f27006289b3979c8b5d"
 metafile = true
@@ -1605,11 +1610,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "a878f1e84810c2fdfe58945b07ae680e3e483d89f33e378aa5a950d6b99f38a3"
-metafile = true
-
-[[files]]
-file = "mods/probejs.pw.toml"
-hash = "355e75d75a828f1fcc536a729d5a3d7c6a3ae207bd63a71c33240124e163aae4"
 metafile = true
 
 [[files]]
