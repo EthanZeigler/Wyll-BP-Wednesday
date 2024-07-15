@@ -983,6 +983,11 @@ hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
 metafile = true
 
 [[files]]
+file = "mods/advancementjs.pw.toml"
+hash = "ab9bb82427428f996a4a36b2cf2fe7f92c4aedd0961bed644a138f7b508e7475"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "6c483e8e94d759e8ba17d339f19b36d745ca6396418c7d96619fa951491ab5f1"
 metafile = true
@@ -1243,21 +1248,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "b00063ae4ce84453b6cb813c7aa3fee8083a1dd8d5110325409ea10e75e6c89f"
-metafile = true
-
-[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
 metafile = true
@@ -1393,8 +1383,13 @@ hash = "8b08488ad53def5763d77fc943a4db2155c992a2268ce437eeb8c76a25cd358c"
 metafile = true
 
 [[files]]
-file = "mods/item-borders.pw.toml"
-hash = "73d37e2743f413f9e0d55a0dad15240093cf22c4b856e8539058d84632ad1f5f"
+file = "mods/iris-flw-compat.pw.toml"
+hash = "543fe0e140671a6254446a228ca047d006833210367c4cba3e2fc50bf055715a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3a54eb27e331d044bdc68dcea0e63c239e21f200683054ecb451c7c23d9407e8"
 metafile = true
 
 [[files]]
@@ -1404,7 +1399,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "e12ed8c8f454dc238c26789d59fe832bf7ef58c80162ea45a991ae8caa2b6989"
+hash = "c9196744dab42a9d4292fa409c64bbda856018cf97b0ca2850a9d8c1995dce24"
 metafile = true
 
 [[files]]
@@ -1413,8 +1408,23 @@ hash = "276fd92c3251af063bf6b998d36be659899ac07884224e59422567571835c43c"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "92295e7a911bfe1dd1b8e2aef68df4aec9ad8f0e03b985dd688bff33b9f0d451"
+metafile = true
+
+[[files]]
 file = "mods/keep-some-inventory.pw.toml"
 hash = "e80bdeeb3623608e95f20f3c15095f97238c3663443a3642d6614518e680594a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-additions.pw.toml"
+hash = "d0161970c28491175d2481fad4fecb3e03634231cda6cef9d997cd81e8612c41"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
 metafile = true
 
 [[files]]
@@ -1583,6 +1593,11 @@ hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
 metafile = true
 
 [[files]]
+file = "mods/ponder.pw.toml"
+hash = "7dfc2b3f6ca353f5f5a1cfafba260f2aaa3f2266ff04aa704613e1d502b2922a"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
@@ -1613,6 +1628,21 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/rei-collapsible-entries.pw.toml"
+hash = "b9a51e1013f87317b847bb2cf043fc9896659a39679a8fd824af52005b9e1b57"
+metafile = true
+
+[[files]]
+file = "mods/rei-enchantment-info.pw.toml"
+hash = "6acc8f41483d16e0325fac6f182dfb7f87825c5899c107322d4ba0bafc7b8994"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
@@ -1620,6 +1650,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
 metafile = true
 
 [[files]]
@@ -1808,5 +1843,9 @@ hash = "3ae6fb6557facef74e17fe121aa130348bc21fda73c44070c3ec6e4de4ae93f2"
 metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r683065_MC1.20.x.zip"
+file = "resourcepacks/VanillaTweaks_no3d_1.20.x.zip"
+hash = "a1510dad836f3f9158495028be96b0a187a73affe167500bf0df6fdbc47ea94a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r683065_MC1.20.x.zip.disabled"
 hash = "f3453f3aadd1750701f14d6240c1c6f4009f94a40d7427066cdeb5fbf448844d"
