@@ -1443,6 +1443,11 @@ hash = "c9196744dab42a9d4292fa409c64bbda856018cf97b0ca2850a9d8c1995dce24"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "c43375da9a71c4a51f171be02d148cc6e7d22b0b1294fed996d88616b4184aa1"
+metafile = true
+
+[[files]]
 file = "mods/jump-sounds.pw.toml"
 hash = "276fd92c3251af063bf6b998d36be659899ac07884224e59422567571835c43c"
 metafile = true
