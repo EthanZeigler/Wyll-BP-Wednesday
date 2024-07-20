@@ -1348,11 +1348,6 @@ hash = "4fca50758d084ad24c4c931ca65d715a868a9ac0a54a7d8acfb3594c5739ddd7"
 metafile = true
 
 [[files]]
-file = "mods/framework.pw.toml"
-hash = "5931ad1296bddf7174c5bb30a2fdb3e11fd1c3da08db32001480f4d0b7b1efda"
-metafile = true
-
-[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "a0fd071193ac4bfe985100641f46dcdbf328952336b16e6abfc732971cd69af6"
 metafile = true
@@ -1480,6 +1475,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "5509698edb520ed920a6e58ccda35731cad793df78b11c7f032011a06567edf3"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "d6d76f9f3f73047163fd8255ffcd709ef071bd941d128d5dcb3da7d7b344533d"
 metafile = true
 
 [[files]]
@@ -1678,11 +1678,6 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "108704476a1790d3d3f62e268a7166e74f7a81d6f1ba51f832ab4f6167b08b8b"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
@@ -1715,6 +1710,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d75694a2907897e324887dd87e6090a5ef7ab7dbb2a1b18cf5f232b647e708ac"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "0194d00e6892b9eb20c21d90639044bdd5453de8011d3b3a83bbfb3b520743ce"
 metafile = true
 
 [[files]]
