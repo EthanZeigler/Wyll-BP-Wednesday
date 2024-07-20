@@ -1578,11 +1578,6 @@ hash = "bb6d98d0320ba7f160f2effbeccf01c95b930d7216c806dd13937854e4ea0edd"
 metafile = true
 
 [[files]]
-file = "mods/natural-motion-blur.pw.toml"
-hash = "0b07a43c1ba634f1c14c7c45260cb1635cfcf1b25dc411aca1bfe9f79484e320"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
 metafile = true
