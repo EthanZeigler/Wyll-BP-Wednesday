@@ -1,0 +1,13 @@
+name = "1.21 Music Backport"
+filename = "1.21 Music Backport - Universal_Hotfix_1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vbKYdvJt/versions/hP4shju0/1.21%20Music%20Backport%20-%20Universal_Hotfix_1.zip"
+hash-format = "sha1"
+hash = "3f310f656a3a242119d53fa1cbd9279742e2a7d0"
+
+[update]
+[update.modrinth]
+mod-id = "vbKYdvJt"
+version = "hP4shju0"

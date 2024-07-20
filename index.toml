@@ -1033,6 +1033,11 @@ hash = "297457710ba0121b7b7ff4d36bd60ee6f260aabb293c7f27006289b3979c8b5d"
 metafile = true
 
 [[files]]
+file = "mods/backported-wolves.pw.toml"
+hash = "166bfddae9c15e5bd03e5fd2311d9ecab2b117f348258c679d4847ebbc4e0119"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
 metafile = true
@@ -1618,6 +1623,11 @@ hash = "e07edafb0554d8ea0c63b7ee125932f37bffeef9be10e215ed1789ba064e6a4d"
 metafile = true
 
 [[files]]
+file = "mods/obsidian29s-tuff-backport.pw.toml"
+hash = "a3d9b5354ea3ee3175d0bf72e26d89cb29d244dedec81b502172537631634fd3"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -1745,6 +1755,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "ce3e958a06f4c421098fc7b7f2202198c9d6e5db19da105f9fa43736e84e40a9"
 metafile = true
 
 [[files]]
@@ -1880,6 +1895,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "3ae6fb6557facef74e17fe121aa130348bc21fda73c44070c3ec6e4de4ae93f2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/1.21-music-backport.pw.toml"
+hash = "057e1ec44d50d513424a77e9c4b66224438a10bc1dbf5bc9ae6785f4f05df216"
 metafile = true
 
 [[files]]
