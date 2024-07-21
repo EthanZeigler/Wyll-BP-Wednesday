@@ -554,7 +554,7 @@ hash = "d58e438f108f4d3a7cd692b35afb20e55ce2d5705229394a7716beab0b5e8588"
 
 [[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "1cab1e1beef2a63354027d6a5f8ce299fee685dd5387d7fd21125c487c50c4c1"
+hash = "325e1281d5a3a35325555e368b28c530337006ab494838c813c116b55e8a460e"
 
 [[files]]
 file = "config/yosbr/config/rrp.properties"
@@ -1062,7 +1062,7 @@ metafile = true
 
 [[files]]
 file = "mods/blahaj.pw.toml"
-hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
+hash = "7005d4625169489bf424f593d9a0f032c2af83ac74007fa3dd7526ca8389038b"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/cat-loaf.pw.toml"
-hash = "1dc5f845d2cb4999cfa65b1caa278c10cae905b7c84381823f44133abb8e28d0"
+hash = "ff1ad440ec672cfe106c72a429c19a154a73d2be6012b9dd20ff94c328fd0104"
 metafile = true
 
 [[files]]
@@ -1122,7 +1122,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
+hash = "ebc0901afd2b0b8be2e485051f8c11777c87225ad0af3bb20f074fc610672a48"
 metafile = true
 
 [[files]]
@@ -1202,7 +1202,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "8eb262e41270d2dc38033a31e68ce9e80d664c5912afd95193c4158d7641c062"
+hash = "71a035607bb52f7c02efa37ad0123864e7bce04314442a8d82c4d6c6c4f7e66b"
 metafile = true
 
 [[files]]
@@ -1372,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "f89b7426d74fe444b023318ecc16bedd657d5caab6637638cd86651c514eab61"
+hash = "14f7eeab0133a433c1f6f4ff75b582f933777088f7dc363e1f966c25f2bd2da2"
 metafile = true
 
 [[files]]
@@ -1467,12 +1467,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "b0522a4f168a08f7644c800a05b2455b6135da6556f1a5cec3bd39b8327df2cf"
+hash = "be2c03cb7c410b46e288a218d21d5da64c2dc35942814f093cfd6e660a2af448"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "1c8921bc05fad32d06a5be0e93fde4b0c0e6b1b9ed0b9fd590835ec360f357d3"
+hash = "3517b78efa21dd987eb9e0a9a14d436d69ffd46ab3cdc3717d1ee836309b20a8"
 metafile = true
 
 [[files]]
@@ -1587,7 +1587,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
-hash = "434aa72d89030fbe6bb07e7b4518cea1863bad462ea7beae16594adc1a48e1ad"
+hash = "4ceaca749cdab36cba10d1d2e91bd9d873751e7226c0fe15a4ea7aad38b379be"
 metafile = true
 
 [[files]]
@@ -1672,7 +1672,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushie.pw.toml"
-hash = "3622c864c31498ddfbf1860318907a90bd0d4fd6fea21f221948b507234dc8c1"
+hash = "6793d35e65574706eea52aa2d779686cc20d19953e1e47e1c2d9f511d13a71e5"
 metafile = true
 
 [[files]]
@@ -1737,7 +1737,7 @@ metafile = true
 
 [[files]]
 file = "mods/ribbits.pw.toml"
-hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
+hash = "9f4599731b5b0473c3d5a27f869c6a8634d7254215e040aa562ce1dbe49ae490"
 metafile = true
 
 [[files]]
@@ -1847,7 +1847,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
+hash = "a758fa7e11264be473f01a49627a1cc15f05965b6557109f9d86c179415f9442"
 metafile = true
 
 [[files]]
@@ -1965,10 +1965,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-enchanted-books.pw.toml"
-hash = "95924077eac953e3d49112cbae40da73458f0edc4dacb79d447524de7a609428"
+hash = "10f551471c3023a53e9d2512d4e3ba922c6fad3c628565605f7f755e619a0917"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-potion.pw.toml"
-hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+hash = "d827ce8d75aea949823b3872f750287aa8cc5f7981f10b35935fcab12167f566"
 metafile = true
