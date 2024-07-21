@@ -1846,6 +1846,11 @@ hash = "c11df7482582d88d118ceedb5c7d2a90718f169bf276acaa4dcfcb60e7526d0b"
 metafile = true
 
 [[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "c8c36e794f74ec6d9b413e1d2bc0620e10389e3aa442f0be9403a14908339e8c"
 metafile = true
