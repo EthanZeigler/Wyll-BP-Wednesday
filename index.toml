@@ -1457,6 +1457,11 @@ hash = "069a78533d5cce118f7217304972c5e965037700dce6bba6e064a9db94804e94"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "063ef9a509d15f98acd95d4032e617b90c9f0d105c8872b9186d6ed16672247a"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "3b7ff907578bee02fa47612358ffe715b113d25bda17d24492a41970c33cf3a4"
 metafile = true
