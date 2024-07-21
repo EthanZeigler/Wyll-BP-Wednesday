@@ -553,6 +553,10 @@ file = "config/yosbr/config/resourceful-config-web.json"
 hash = "d58e438f108f4d3a7cd692b35afb20e55ce2d5705229394a7716beab0b5e8588"
 
 [[files]]
+file = "config/yosbr/config/resourcepackoverrides.json"
+hash = "1cab1e1beef2a63354027d6a5f8ce299fee685dd5387d7fd21125c487c50c4c1"
+
+[[files]]
 file = "config/yosbr/config/rrp.properties"
 hash = "eef4bd40a9bf5720859d3c3bc365a60458c0fc9c4ba245244a133d9a81ca9d79"
 
@@ -1092,6 +1096,11 @@ hash = "4a8a5ee993c2ac6f7291e2d54043df48d8d46a01e0b41ff43734df11a1f29b10"
 metafile = true
 
 [[files]]
+file = "mods/cat-loaf.pw.toml"
+hash = "1dc5f845d2cb4999cfa65b1caa278c10cae905b7c84381823f44133abb8e28d0"
+metafile = true
+
+[[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "c1282ac757e7d6dee4039b3e84c2f369262ed09f681dd6a1ce368187c8f722fe"
 metafile = true
@@ -1189,6 +1198,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "94bd54856042f0ce9999c658bb6ee3e05e9a5370bbf76d5fd8e8dadf242644c0"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "8eb262e41270d2dc38033a31e68ce9e80d664c5912afd95193c4158d7641c062"
 metafile = true
 
 [[files]]
@@ -1322,11 +1336,6 @@ hash = "260b9085436e92515841ca80b9a21e19426450cdb783373bdfeacb90a2d67deb"
 metafile = true
 
 [[files]]
-file = "mods/every-compat.pw.toml"
-hash = "0adb2c3b232a132b3a2641f039c55c4ecf314e954f93262491296d7c937404d6"
-metafile = true
-
-[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
@@ -1362,6 +1371,11 @@ hash = "22a0446ca69c0c1728b2a24c4e7e526dfb12ae77cece4759af91b33d7b98c063"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "f89b7426d74fe444b023318ecc16bedd657d5caab6637638cd86651c514eab61"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "fc53bf2e24830958650e38c42e938b177df1259b0569400ef30a3b1197836c04"
 metafile = true
@@ -1379,11 +1393,6 @@ metafile = true
 [[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "2fea805e5db2af578b0126d9aafd47aa1225ea97ac01bd23162fc6eac947f360"
-metafile = true
-
-[[files]]
-file = "mods/hearth-and-home.pw.toml"
-hash = "159f2b075d7992abd951412b03de750b08e611b1142f933c352cb971072bd6e1"
 metafile = true
 
 [[files]]
@@ -1458,12 +1467,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "063ef9a509d15f98acd95d4032e617b90c9f0d105c8872b9186d6ed16672247a"
+hash = "b0522a4f168a08f7644c800a05b2455b6135da6556f1a5cec3bd39b8327df2cf"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "3b7ff907578bee02fa47612358ffe715b113d25bda17d24492a41970c33cf3a4"
+hash = "1c8921bc05fad32d06a5be0e93fde4b0c0e6b1b9ed0b9fd590835ec360f357d3"
 metafile = true
 
 [[files]]
@@ -1574,6 +1583,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "8109146e38dd737e509469719185e470a456acfde709c9b09426e4bde55f0cd7"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "434aa72d89030fbe6bb07e7b4518cea1863bad462ea7beae16594adc1a48e1ad"
 metafile = true
 
 [[files]]
@@ -1719,6 +1733,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "1615168dc4a1535e21eb63142716980a050ecbb49ce6fca1b24db68e0acc388c"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
 metafile = true
 
 [[files]]
