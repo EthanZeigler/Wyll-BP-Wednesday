@@ -1707,7 +1707,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-multimeter.pw.toml"
-hash = "52c82f6d7b3e3e81aa221ede0b3ff8eebfa284e6e8c1943cb42e74201bf035af"
+hash = "063bc69558510fda43d387f371ca182545c7f86298bca78f593e377cfed7ff04"
 metafile = true
 
 [[files]]

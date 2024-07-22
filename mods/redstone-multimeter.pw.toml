@@ -2,6 +2,11 @@ name = "Redstone Multimeter Fabric"
 filename = "redstone-multimeter-fabric-mc1.20-1.14.1.jar"
 side = "both"
 
+[option]
+optional = true
+default = false
+description = "doesnt matter dont worry about it"
+
 [download]
 url = "https://cdn.modrinth.com/data/X6YTb3G1/versions/8nQfWIuy/redstone-multimeter-fabric-mc1.20-1.14.1.jar"
 hash-format = "sha1"
