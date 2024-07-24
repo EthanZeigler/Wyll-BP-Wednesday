@@ -1206,6 +1206,11 @@ hash = "71a035607bb52f7c02efa37ad0123864e7bce04314442a8d82c4d6c6c4f7e66b"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "20b927814945569eaf2828479e02e4706d7012e742a010c75283f2b614b238b1"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "c407bf41307cec319a571af2f4176388fa30347a351755afc0566943e8cf290c"
 metafile = true
@@ -1707,7 +1712,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-multimeter.pw.toml"
-hash = "063bc69558510fda43d387f371ca182545c7f86298bca78f593e377cfed7ff04"
+hash = "51822bfebd9377fdef9cab2e7fb7442d0b179cbebda38b5ef63a0a485f3df143"
 metafile = true
 
 [[files]]
