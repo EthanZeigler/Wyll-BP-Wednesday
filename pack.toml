@@ -1,12 +1,12 @@
 name = "Blockparty Wednesday"
 author = "Serene_Sparks_+rznant"
-version = "0.6.9"
+version = "0.6.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e553f6a149161febba77dd485e054926a9bcde747a7acda0f61fe1a2606c1fca"
+hash = "e9817602fc2fd1a721dda987fd9a2ca18d4cbbfb0c039bd9a91607a868cc0f88"
 
 [versions]
 fabric = "0.15.11"

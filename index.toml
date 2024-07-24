@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "ab8d3ce1481ec009149315d10b26cfcad3f93ba4f5ad19cb74bc300415166363"
+hash = "399ec00ed1bdd10f329a4e7b1586b0c15a8b5e10044f06a786b6c3621ad7156b"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "c283e9a3cadecf1b2fef490d09dbc2f86ba89be099e4fcdd5137a6d97c91f64c"
+hash = "0595d039ddcf690b43c84a119ab10ff5efc7f93229bf6dcac39cbf1bb1abe042"
 metafile = true
 
 [[files]]
@@ -1057,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "b84aa1d9714c24a1c380568be2ed81dc6d03fed5d575ab8be356c45962e6cc45"
+hash = "80f233a6a013fc9dda639a6e65e83c869a0545923a56b570f65b240815f11f2e"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f806a91ce07338479775c69a40fb5bf2e04e8c891b025898f4d33f1964652aad"
+hash = "cc0eee8c6e2df7fa84c66ad42ce725c1ee29b1ca6c3b928f0ab7ab43f2554581"
 metafile = true
 
 [[files]]
@@ -1117,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "2c47faacda1edc76e6233e78118083176e9d4458999282f98e0af94cb341517a"
+hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
 metafile = true
 
 [[files]]
@@ -1137,12 +1137,12 @@ metafile = true
 
 [[files]]
 file = "mods/clover.pw.toml"
-hash = "317333c2e6788dcb85f2ca086c35b9f1db7f0f2514682d40829a3b835d97c002"
+hash = "36fa366c12eb61c2db87d46ecac62f89305bb38efc7fc901dbb9f59f1b6f14f6"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4693ff6f215a095c30b53a1729ccec1d57eaa39d4ef3377f8cbab42ae6c5234b"
+hash = "3d35417afcaac0e90474e2c321b407364ea680ffa04b7b5146e7f5feb8d5b05a"
 metafile = true
 
 [[files]]
@@ -1167,7 +1167,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "03bdf852340d30f8460a312011d01ed7103f80d3552e2d325cc5496e7cfa9c53"
+hash = "4446114023212017387263c94e75b9e3ff626289a8802c34bfc3813de2ebbd1e"
 metafile = true
 
 [[files]]
@@ -1177,12 +1177,12 @@ metafile = true
 
 [[files]]
 file = "mods/crate-delight.pw.toml"
-hash = "18eef1745e98263f227f8ce53b86543e927a06eb8b2b71774a9f3ed3ee9a41b7"
+hash = "98711cfbb6a91b0bd526725efa98335e281b656c58040f72d3e0dc322a112283"
 metafile = true
 
 [[files]]
 file = "mods/create-cobblestone.pw.toml"
-hash = "33d89e52543167979d2752defc4b9020b378561d170e1db8d7ed27243e5f4caf"
+hash = "0522b2dea48a04bafaa68f227a1be6a7ad9d39023bca916618d234a7aa6f828a"
 metafile = true
 
 [[files]]
@@ -1282,7 +1282,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "46ca7215a6dfb277b7a007e7c77f0e6eca1de968475fcc93a959219c816fa737"
+hash = "dd5845c1871ac495fe753326607220b119ddfe18bf0d139e011cb944da020d18"
 metafile = true
 
 [[files]]
@@ -1472,7 +1472,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "be2c03cb7c410b46e288a218d21d5da64c2dc35942814f093cfd6e660a2af448"
+hash = "b0f63e044d55dccbb7bd5cf4bdb5a182d12837b61e8017429bafab8cc8576d53"
 metafile = true
 
 [[files]]
@@ -1572,7 +1572,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "037e359eb7972aeea812b3165707d9283664ee71b4f200678ff54df5e6155ae1"
+hash = "37976a6d30855b8e6670193cb07f969df75ed89616223daf3b72a20f75dee4d8"
 metafile = true
 
 [[files]]
@@ -1587,7 +1587,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8109146e38dd737e509469719185e470a456acfde709c9b09426e4bde55f0cd7"
+hash = "bbc45f671b446c7c341775e6f30f6585f8c519fc41308e834ded56e4d1c03f88"
 metafile = true
 
 [[files]]
@@ -1622,7 +1622,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "1741a81f2f3cfd4529d0fdbb13250802e8083277ef6f7192e4fdb76272872d40"
+hash = "558e6909cfd2f1dc70ec24e3114a0cebdd492487fdaa371c862cdf0b3e636f43"
 metafile = true
 
 [[files]]
@@ -1712,7 +1712,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-multimeter.pw.toml"
-hash = "51822bfebd9377fdef9cab2e7fb7442d0b179cbebda38b5ef63a0a485f3df143"
+hash = "063bc69558510fda43d387f371ca182545c7f86298bca78f593e377cfed7ff04"
 metafile = true
 
 [[files]]
@@ -1762,7 +1762,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b5325eac9b07fcbf68d5dfece4bf97dbbf7e893b18bde54f22d2c348958056ef"
+hash = "1802c094c28600a6f3fb498cbcfeeca6f3b6b7ade5e5a9e997d2ae9362545ece"
 metafile = true
 
 [[files]]
@@ -1772,7 +1772,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "9f8bad509597a86fecceef208c2daa42a5f09b6e2fe8287a70383044ca627a8e"
+hash = "97e82bdfb6735a8eed7f0a4727290d7cc2d3f7b2d4bf2d6a5ff4c7e34fea9513"
 metafile = true
 
 [[files]]
@@ -1807,7 +1807,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "449908fc1f2c50b5775c3eba24effdd963e7e272fe93566ffecc24f516e6d149"
+hash = "67290d6986ff23778b37e49da990b693f2e2574ac69370f854b02f11245a05b6"
 metafile = true
 
 [[files]]
