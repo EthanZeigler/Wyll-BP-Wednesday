@@ -1076,6 +1076,11 @@ hash = "4af854503d6f6dc4dfd963e21cae9118098bdbf9f0197c02209786241352ed85"
 metafile = true
 
 [[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "a08b0e9c2340f4b5432f643331348ad8153d6bc4bf89d4e38732e9ae0a2fe94d"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
 hash = "c9f74275b73828f8dd93f70327b651df844ec48e55fc898b9e5d9f4e96a5e910"
 metafile = true
@@ -1383,6 +1388,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "14f7eeab0133a433c1f6f4ff75b582f933777088f7dc363e1f966c25f2bd2da2"
+metafile = true
+
+[[files]]
+file = "mods/frog-petting.pw.toml"
+hash = "4063f7d36849c040bbb797a65819690273d247c61e662772393653ce6615ed81"
 metafile = true
 
 [[files]]
