@@ -1,0 +1,13 @@
+name = "Vanilla Colored Create Copper"
+filename = "vanilla_colored_create_copper_1.20.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AjJUbPyO/versions/fhjMicdX/vanilla_colored_create_copper_1.20.x.zip"
+hash-format = "sha1"
+hash = "8af93e9198e2c3ff86808e3de917090e2055803f"
+
+[update]
+[update.modrinth]
+mod-id = "AjJUbPyO"
+version = "fhjMicdX"

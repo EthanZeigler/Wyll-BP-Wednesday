@@ -1,0 +1,13 @@
+name = "ReCreatedGoggles"
+filename = "§bRe§6Created§bGoggles.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4regQmX3/versions/Hul3V7ha/%C2%A7bRe%C2%A76Created%C2%A7bGoggles.zip"
+hash-format = "sha1"
+hash = "64fec25b4ab4d0fecda9beae6f2beb045650b997"
+
+[update]
+[update.modrinth]
+mod-id = "4regQmX3"
+version = "Hul3V7ha"
