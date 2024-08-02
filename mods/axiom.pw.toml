@@ -2,6 +2,11 @@ name = "Axiom"
 filename = "Axiom-3.2.1-for-MC1.20.1.jar"
 side = "both"
 
+[option]
+optional = true
+default = false
+description = "Super-powered building mod"
+
 [download]
 url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/f9pguExv/Axiom-3.2.1-for-MC1.20.1.jar"
 hash-format = "sha1"
