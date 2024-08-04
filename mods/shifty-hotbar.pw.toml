@@ -2,6 +2,11 @@ name = "Shifty Hotbar"
 filename = "shifty-hotbar-mc1.20-1.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+description = "Shift+scroll to move between inventory rows"
+
 [download]
 url = "https://cdn.modrinth.com/data/Vtzg2pos/versions/o0x5z8tp/shifty-hotbar-mc1.20-1.1.jar"
 hash-format = "sha1"
