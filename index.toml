@@ -1260,6 +1260,11 @@ hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "6c67475462bd6f71e253d3e66041311f980428f092966c35ebf1ed38d7323769"
 metafile = true
@@ -1432,6 +1437,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "a0fd071193ac4bfe985100641f46dcdbf328952336b16e6abfc732971cd69af6"
+metafile = true
+
+[[files]]
+file = "mods/fxnt-create-storage.pw.toml"
+hash = "9937445db1c1c6212db8705d57e5156efba1b152b616aa0e8c48e588ff67249c"
 metafile = true
 
 [[files]]
@@ -1732,11 +1742,6 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "7dfc2b3f6ca353f5f5a1cfafba260f2aaa3f2266ff04aa704613e1d502b2922a"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
 
 [[files]]
