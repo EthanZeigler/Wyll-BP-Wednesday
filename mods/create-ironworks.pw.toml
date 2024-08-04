@@ -1,0 +1,13 @@
+name = "Create: Ironworks [Forge/Fabric]"
+filename = "create_ironworks-1.2.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FZb6dmQf/versions/HqOxn0Rp/create_ironworks-1.2.0-fabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "05c3c41c2f34b74af6861251c2e09a3992611847"
+
+[update]
+[update.modrinth]
+mod-id = "FZb6dmQf"
+version = "HqOxn0Rp"

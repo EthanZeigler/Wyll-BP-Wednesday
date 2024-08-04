@@ -981,6 +981,10 @@ file = "datapacks/villager death messages v1.2.10 (MC 1.21.0).zip"
 hash = "b5969fd2b7baa61d8fe4aba559e2a05de26234de09b17bcc0efc0bd1f62a0ed6"
 
 [[files]]
+file = "kubejs/server_scripts/disable_recipies.js"
+hash = "21b101ee146f9fea30ec831b7802b27a67c1a20fc1866fd0b1201a71071282e5"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
 metafile = true
@@ -1186,6 +1190,11 @@ hash = "98711cfbb6a91b0bd526725efa98335e281b656c58040f72d3e0dc322a112283"
 metafile = true
 
 [[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "a449fbd1ab11bfa62969c3cb911e642adf750657bb17092515034aab97204b02"
+metafile = true
+
+[[files]]
 file = "mods/create-cards.pw.toml"
 hash = "15b0c08edfffc67e88b7ab4686cec3861125a99da2c205805b41ac13b55ebd43"
 metafile = true
@@ -1203,6 +1212,11 @@ metafile = true
 [[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "a6d6b41fdad2ec5135d3ded6b780741c5bceda410612ba3df7a05ad4a20d0250"
+metafile = true
+
+[[files]]
+file = "mods/create-crystallized.pw.toml"
+hash = "c963f258874f5c053dfec3063330d2e689bf76e808dc68a694a0bcbbf5b19b1d"
 metafile = true
 
 [[files]]
@@ -1233,6 +1247,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/create-ironworks.pw.toml"
+hash = "bc72ec7194ed2ab8b1e44e90e5b9aef899bd35d27d39c949030f5885f3cec267"
 metafile = true
 
 [[files]]
@@ -1568,6 +1587,11 @@ metafile = true
 [[files]]
 file = "mods/lootery.pw.toml"
 hash = "a80b6171f1361dcfa5082efe706f57b626fe1d1f4ee809aff71fca3931fc0acf"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "33315b872164da7d6ecb69cb3996dc2ac6d126a33eb8b7e90425874f257aa93a"
 metafile = true
 
 [[files]]
