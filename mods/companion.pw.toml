@@ -1,13 +1,13 @@
 name = "Companion 🐕"
-filename = "Companion-1.20.1-fabric-5.2.0.jar"
+filename = "Companion-1.20.1-Forge-5.2.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/8TD76y1j/Companion-1.20.1-fabric-5.2.0.jar"
+url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/Shfpdcwi/Companion-1.20.1-Forge-5.2.0.jar"
 hash-format = "sha1"
-hash = "82d9a13c88dde7e5babad4a2a692642780541988"
+hash = "f8b2a46ce8fdb44ece8dc55d00dfdd08cea257fd"
 
 [update]
 [update.modrinth]
 mod-id = "4w0EzGRW"
-version = "8TD76y1j"
+version = "Shfpdcwi"

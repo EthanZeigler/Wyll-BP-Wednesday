@@ -1,18 +1,18 @@
 name = "Item Highlighter"
-filename = "Highlighter-1.20.1-fabric-1.1.9.jar"
+filename = "Highlighter-1.20.1-forge-1.1.9.jar"
 side = "client"
 
-[option]
-optional = true
-default = true
-description = "Highlights newly picked up items in your inventory"
-
 [download]
-url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/vyEyvJgV/Highlighter-1.20.1-fabric-1.1.9.jar"
+url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/rcQOLnyI/Highlighter-1.20.1-forge-1.1.9.jar"
 hash-format = "sha1"
-hash = "12fd494098bbcf8d34b1cb939587599594d4e9bf"
+hash = "644dc33b1745ad100f513b4d169ace86fff3b2bf"
 
 [update]
 [update.modrinth]
 mod-id = "cVNW5lr6"
-version = "vyEyvJgV"
+version = "rcQOLnyI"
+
+[option]
+optional = true
+description = "Highlights newly picked up items in your inventory"
+default = true
