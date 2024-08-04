@@ -1,0 +1,13 @@
+name = "Delightful"
+filename = "Delightful-1.20.1-3.5.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6cd314e7912a82dc7d7cc5720d4b9ad4827b25f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5561506
+project-id = 637529

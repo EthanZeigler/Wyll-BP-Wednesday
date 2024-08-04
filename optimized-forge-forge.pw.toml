@@ -1,0 +1,13 @@
+name = "Optimized fps [FORGE]"
+filename = "Optimized FORGE- alpha 1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6d27849be53145b6def6022c5803ef20390b6a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4598631
+project-id = 819426
