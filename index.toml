@@ -1215,11 +1215,6 @@ hash = "a6d6b41fdad2ec5135d3ded6b780741c5bceda410612ba3df7a05ad4a20d0250"
 metafile = true
 
 [[files]]
-file = "mods/create-crystallized.pw.toml"
-hash = "c963f258874f5c053dfec3063330d2e689bf76e808dc68a694a0bcbbf5b19b1d"
-metafile = true
-
-[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "fff89798e9a8e2d0ee4ea6fb60543e58ea06e24f4d1ef1e3218784a79b4515ae"
 metafile = true
@@ -1268,6 +1263,10 @@ metafile = true
 file = "mods/creeper-overhaul.pw.toml"
 hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
 metafile = true
+
+[[files]]
+file = "mods/crystallized-1.0.0+1.20.1.jar"
+hash = "a7c3be75691128f2bd3782ec21b5f35099884bddd204feabca8a2f074deff25d"
 
 [[files]]
 file = "mods/cut-through.pw.toml"
