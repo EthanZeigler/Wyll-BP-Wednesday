@@ -1,0 +1,13 @@
+name = "Skylands over the Sea"
+filename = "skylands-over-the-sea-v1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WAKcNdAc/versions/2WCdPjEw/skylands-over-the-sea-v1.1.1.jar"
+hash-format = "sha1"
+hash = "a6d7b8d434229cf2af429c9f0d1995bdd04fdadc"
+
+[update]
+[update.modrinth]
+mod-id = "WAKcNdAc"
+version = "2WCdPjEw"
