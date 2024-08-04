@@ -1,13 +1,13 @@
 name = "Create: Curios Jetpack [Forge/Fabric]"
-filename = "create_jetpack_curios-1.0.0-forge-1.20.1.jar"
+filename = "create_jetpack_curios-1.0.0-fabric-1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/BBhCMftF/versions/NfpMte9q/create_jetpack_curios-1.0.0-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/BBhCMftF/versions/TQjAmiQu/create_jetpack_curios-1.0.0-fabric-1.20.1.jar"
 hash-format = "sha1"
-hash = "552acc8052466c6d4166b112c8b1dd404b91ed8c"
+hash = "7614a8756e3d8e2aa9650921f1f723808575cd5e"
 
 [update]
 [update.modrinth]
 mod-id = "BBhCMftF"
-version = "NfpMte9q"
+version = "TQjAmiQu"
