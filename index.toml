@@ -981,8 +981,8 @@ file = "datapacks/villager death messages v1.2.10 (MC 1.21.0).zip"
 hash = "b5969fd2b7baa61d8fe4aba559e2a05de26234de09b17bcc0efc0bd1f62a0ed6"
 
 [[files]]
-file = "kubejs/server_scripts/disable_recipies.js"
-hash = "21b101ee146f9fea30ec831b7802b27a67c1a20fc1866fd0b1201a71071282e5"
+file = "kubejs/server_scripts/change_recipies.js"
+hash = "fb0f023dcf6395f2f2d3ac802f3c2fda448b68c65bf39f644aaa9c1c53d147df"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -1857,11 +1857,6 @@ metafile = true
 [[files]]
 file = "mods/too-many-binds.pw.toml"
 hash = "c69eedd2cf1721b5347ecee4fedd76a5e4fa1150e09da414dd67d25258f0ce90"
-metafile = true
-
-[[files]]
-file = "mods/travelers-titles.pw.toml"
-hash = "e580928a25e780a7c7b37f7b097d810e3f0e4956e55a2b99ed0b3a4cdaa933e1"
 metafile = true
 
 [[files]]
