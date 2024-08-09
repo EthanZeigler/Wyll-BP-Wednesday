@@ -1410,11 +1410,6 @@ hash = "5d4381413d502b8bd3e41908df40b0da103b01c3b9e9e557c7549aeca0b1c260"
 metafile = true
 
 [[files]]
-file = "mods/held-item-tooltips.pw.toml"
-hash = "d61ec313523785b4a65542848ccc414d2387c826754a9ffd5d6ed43ad87b95d7"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
 metafile = true
@@ -1943,10 +1938,6 @@ metafile = true
 file = "resourcepacks/1.21-music-backport.pw.toml"
 hash = "f3ac07c89231b54136014684230c5abf98cf2e56c746ace45f2030731a9b1ee7"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Created Updated v0.1.zip"
-hash = "3d172f111521bc21530501150b0cdad11b5b5528eca6bed8149a8d7277ed37ef"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_no3d_1.20.x.zip"
