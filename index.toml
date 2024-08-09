@@ -93,6 +93,22 @@ file = "config/yosbr/config/balm-common.toml"
 hash = "8a0d7c3e13b41a9564cdcffcd4121edeb2ce4ec453dc19ca8f74862eb63fd608"
 
 [[files]]
+file = "config/yosbr/config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
+file = "config/yosbr/config/bedrockify/bedrockifyClient.json"
+hash = "ba3698d97aa6d8359681ecccc2743d3fe0015a555c0ef5c079e7bf634de9c4c2"
+
+[[files]]
+file = "config/yosbr/config/bedrockify/bedrockifyCommon.json"
+hash = "f26e6cc1b15b527414ff48709156879f106970dd2166b88b64ae239bb3bddca1"
+
+[[files]]
+file = "config/yosbr/config/bedrockify/bedrockifyMixins.json"
+hash = "26db6b6ec29ccc3852e9b16cad4785488429c49adf81c3e3cef66b319495d6a5"
+
+[[files]]
 file = "config/yosbr/config/betterdeserttemples-fabric-1_20.toml"
 hash = "e63043258f9ac91bb970125ab3640a76a7f1c5ef80e9ebf0af105634f3ddeaec"
 
@@ -313,18 +329,6 @@ file = "config/yosbr/config/etf_warnings.json"
 hash = "368c428c9edaddb490c2e7339642e79ceddcb0a6fd8fd434c4bd8e1af34c26f8"
 
 [[files]]
-file = "config/yosbr/config/everycomp-common.json"
-hash = "5f5c199ec72688e35912146e178dc11d3053715787c273ba402d241d5ec29d13"
-
-[[files]]
-file = "config/yosbr/config/everycomp-entries.json"
-hash = "4201709f221cee3a39ee8953245171aaf2db6e8ad49279df413ea76350763d52"
-
-[[files]]
-file = "config/yosbr/config/everycomp-hazardous.properties"
-hash = "591198c30d551d647d97db552eba59756d5835ed4480619d39a94132e7d67452"
-
-[[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "22e355e38d7d92c4a278f711ce4df6e65f1e779639915dfc5f5adb7996981dea"
 
@@ -355,10 +359,6 @@ hash = "dd25769f0a9f9f39914d76fd0b9980128503975969f3b996c00d1cc534c1c539"
 [[files]]
 file = "config/yosbr/config/fwaystones/config.json5"
 hash = "39df29d0c337e4ba38c6228abde1f5d20a6d9d2d4fd8fbd9c1ccc3b0aa540d8e"
-
-[[files]]
-file = "config/yosbr/config/healingcampfire.json5"
-hash = "2f010c51f4e98b98e8937d84a7663b29f553b9a6ca48445215f17a8bddeeb329"
 
 [[files]]
 file = "config/yosbr/config/helditemtooltips-client.toml"
@@ -513,10 +513,6 @@ file = "config/yosbr/config/naturalist.json"
 hash = "e5c57d5a0f13849051959d450b535b56418e892f9448d362fa5ea515407e5676"
 
 [[files]]
-file = "config/yosbr/config/nohostilesaroundcampfire.json5"
-hash = "74833af9d8cfef1444f9e6a1b65561135d091eda21a674bbb1af5c2eadf1c0b8"
-
-[[files]]
 file = "config/yosbr/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
 hash = "a57b540d418c9f7cefb93a0945a7c43e92788f753d9f11893d0ed69e195ca2da"
 
@@ -527,14 +523,6 @@ hash = "a57b540d418c9f7cefb93a0945a7c43e92788f753d9f11893d0ed69e195ca2da"
 [[files]]
 file = "config/yosbr/config/notenoughanimations.json"
 hash = "121f79a4352371104003fde2844a848cdf7cb61b48836811044a8e46199df3fd"
-
-[[files]]
-file = "config/yosbr/config/ping-wheel.json"
-hash = "4cc0811f00df4042916409168877fc61d73a05f85f5a0689979b4c95d8cbc07f"
-
-[[files]]
-file = "config/yosbr/config/ping-wheel.server.json"
-hash = "46c5ae2a4c662f273055fe88bedd5ce7f8ea507986669a53934de18a8b4f99ea"
 
 [[files]]
 file = "config/yosbr/config/polymorph-integrations.toml"
@@ -553,10 +541,6 @@ file = "config/yosbr/config/resourceful-config-web.json"
 hash = "d58e438f108f4d3a7cd692b35afb20e55ce2d5705229394a7716beab0b5e8588"
 
 [[files]]
-file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "325e1281d5a3a35325555e368b28c530337006ab494838c813c116b55e8a460e"
-
-[[files]]
 file = "config/yosbr/config/rrp.properties"
 hash = "eef4bd40a9bf5720859d3c3bc365a60458c0fc9c4ba245244a133d9a81ca9d79"
 
@@ -567,42 +551,6 @@ hash = "3797f64ba9c93aa135bf392e617ede1678daed490b979f1c6c24a61156dbd2a4"
 [[files]]
 file = "config/yosbr/config/showmeyourskin.json"
 hash = "9307df2e365787048b8f381d7c65b0fccb587252d281fde37c2e688f12200691"
-
-[[files]]
-file = "config/yosbr/config/simplyswords_extra/backupconfig.json"
-hash = "5c4ee4a8539ed7f89ae7ad842a6cf79c572122a669a11c533773ff090ce69ecd"
-
-[[files]]
-file = "config/yosbr/config/simplyswords_extra/loot_config.json5"
-hash = "9356a59efee78292b945211eb9b1ecdeb2f7fa80aa3d98d44b006d8dcefd0690"
-
-[[files]]
-file = "config/yosbr/config/simplyswords_main/gem_effects.json5"
-hash = "8e5b14c3f6659862e9022507a3100cfea0f32bb13d157b85cb5f2daadec6839a"
-
-[[files]]
-file = "config/yosbr/config/simplyswords_main/general.json5"
-hash = "e2398cf0b3e6861d1bd798f632d4fa4bde2263779269d8a4d1d307f765423fd0"
-
-[[files]]
-file = "config/yosbr/config/simplyswords_main/loot.json5"
-hash = "23b2575cff0c75951f0d1021241b3d8eab615f4f532053e6c6873e128e3c6de8"
-
-[[files]]
-file = "config/yosbr/config/simplyswords_main/runic_effects.json5"
-hash = "19a53c9236511ed89c787041956ccdd34bace0a966e69d62038b3bd763ff50ee"
-
-[[files]]
-file = "config/yosbr/config/simplyswords_main/status_effects.json5"
-hash = "8c178ec3061fca94062e1f1f68fb2747216e50f1b0db9242334861a7d1c1ad40"
-
-[[files]]
-file = "config/yosbr/config/simplyswords_main/unique_effects.json5"
-hash = "32363cdc8644e230a35f3c48b955302e4f3daca255a2de345df299f9b0dbe466"
-
-[[files]]
-file = "config/yosbr/config/simplyswords_main/weapon_attributes.json5"
-hash = "67f681e8ef28c2e33ef1eed10978c2cf429a9a4760001a270009ca4521e1f59d"
 
 [[files]]
 file = "config/yosbr/config/sit.json5"
@@ -639,14 +587,6 @@ hash = "5e979266f3c675f4c8c59ee8f60389ca778a71219d3d5a5d0006c9fd4e118bef"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "c40420fd8d071c0bc0fe5a5cdce3a55754b3640efad674864c4d4572de740d3d"
-
-[[files]]
-file = "config/yosbr/config/spelunkery-client.json"
-hash = "206f555647a90fa0a65c06afaa5cb776d14054b42a298dd194788af29117457a"
-
-[[files]]
-file = "config/yosbr/config/spelunkery-common.json"
-hash = "c9602803c5f2722690e3e740ddd5f7fd8de3dcc896c36ac49cb50a8a5f28fa94"
 
 [[files]]
 file = "config/yosbr/config/supplementaries-client.json"
