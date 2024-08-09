@@ -98,7 +98,7 @@ hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
 
 [[files]]
 file = "config/yosbr/config/bedrockify/bedrockifyClient.json"
-hash = "ba3698d97aa6d8359681ecccc2743d3fe0015a555c0ef5c079e7bf634de9c4c2"
+hash = "00cc5782ed0b97b702a8280f924bf26794034f51a152d9747abe0e1b7481ed8a"
 
 [[files]]
 file = "config/yosbr/config/bedrockify/bedrockifyCommon.json"
@@ -923,6 +923,10 @@ hash = "b5969fd2b7baa61d8fe4aba559e2a05de26234de09b17bcc0efc0bd1f62a0ed6"
 [[files]]
 file = "kubejs/server_scripts/change_recipies.js"
 hash = "fb0f023dcf6395f2f2d3ac802f3c2fda448b68c65bf39f644aaa9c1c53d147df"
+
+[[files]]
+file = "kubejs/server_scripts/create_compat.js"
+hash = "bc0e105609a59dc303cbaebecc5041ce29633de1a2c28e9e9016df11b63fbeab"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
