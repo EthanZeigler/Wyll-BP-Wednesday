@@ -922,7 +922,7 @@ hash = "b5969fd2b7baa61d8fe4aba559e2a05de26234de09b17bcc0efc0bd1f62a0ed6"
 
 [[files]]
 file = "kubejs/server_scripts/change_recipies.js"
-hash = "fb0f023dcf6395f2f2d3ac802f3c2fda448b68c65bf39f644aaa9c1c53d147df"
+hash = "5888db8b93ed706fcea4809827a7a0c70ebb402fd57985e47f87a5614eecd21f"
 
 [[files]]
 file = "kubejs/server_scripts/create_compat.js"
