@@ -39,8 +39,6 @@ ServerEvents.recipes(event => {
 
     // removes create ultimate factory redstone recipe
     event.remove({ type: 'create:mixing', output: 'minecraft:redstone'})
-    // removes create tuff crushing recipe
-    event.remove({ input: 'minecraft:tuff', type: 'create:crushing' })
 
     ///////////////////
     // ADDITION/REPLACEMENT
@@ -66,7 +64,7 @@ ServerEvents.recipes(event => {
     )
 
 
-    // ingot to raw ore crushing recipe 
+    // ingot to raw ore mixing recipe 
     ingotToRawOreInput .forEach((input, index) => {
         const output = ingotToRawOreOutput[index]
         event.custom({
@@ -103,87 +101,7 @@ ServerEvents.recipes(event => {
           })
     })
 
-    event.custom({
-      "type": "create:mixing",
-      "heatRequirement": "heated",
-      "ingredients": [
-        {
-          
-          "item": 'minecraft:deepslate'
-        },
-         {
-          
-          "item": 'minecraft:soul_sand'
-        },
-        {
-          "returnChance": 0.25,
-          "item": `minecraft:blaze_powder`
-        },
-        {
-          "amount": 4050,
-          "fluid": "minecraft:lava",
-        }
-      ],
-      "results": [
-        {
-          "chance": 0.25,
-          "item": "create:experience_nugget"
-        },
-        {
-          "chance": 0.7,
-          "item": "minecraft:flint"
-        },
-        {
-          "chance": 0.25,
-          "item": "minecraft:raw_gold"
-        },
-        {
-          "chance": 0.25,
-          "item": "minecraft:raw_copper"
-        },
-        {
-          "chance": 0.25,
-          "item": "create:raw_zinc"
-        },
-        {
-          "chance": 0.25,
-          "item": "minecraft:raw_iron"
-        }
-      ]
-    })
-    event.custom({
-      "type": "create:crushing",
-      "ingredients": [
-        {
-          "item": "minecraft:tuff"
-        }
-      ],
-      "processingTime": 350,
-      "results": [
-        {
-          "chance": 0.25,
-          "item": "minecraft:flint"
-        },
-        {
-          "chance": 0.05,
-          "item": "minecraft:raw_gold"
-        },
-        {
-          "chance": 0.05,
-          "item": "minecraft:raw_copper"
-        },
-        {
-          "chance": 0.05,
-          "item": "create:raw_zinc"
-        },
-        {
-          "chance": 0.05,
-          "item": "minecraft:raw_iron"
-        }
-      ]
-    })
-    
-
+  
   
 console.log("Blockparty Wednesday KubeJS recipes loaded!");
 })
